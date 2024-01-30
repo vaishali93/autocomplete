@@ -2,6 +2,8 @@
 
 This component uses a simple input search and displays the list of items below them. This search component uses the "https://www.openbrewerydb.org/documentation" - "Search Breweries" api. To start, the user can start typing "brew" and the results of the breweries are fetched from the api and displayed in the list.
 
+Node version: 16.20
+
 ## Available Scripts
 
 In the project directory, you can run:
